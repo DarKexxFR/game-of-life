@@ -1,0 +1,25 @@
+# === Executables ===
+game_of_life
+*.out
+*.exe
+
+# === Objects and Libraries ===
+*.o
+*.a
+*.so
+
+# === Debug and Analysis Files ===
+*.dSYM/
+core
+vgcore.*
+gmon.out
+
+# === OS / IDE Files ===
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# === Logs ===
+*.log
